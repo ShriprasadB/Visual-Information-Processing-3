@@ -1,0 +1,32 @@
+Shriprasad Bhamare
+sbhamar1@binghamton.edu
+
+There are two seperate Folders "Compression" and "roi" having respective cpp files
+
+-------------------------------------------------------------------------------------
+In order to compile  code
+type command
+ 
+make
+------------------------------------------------------------------------------------
+In order to run code
+type command
+ 
+make run
+-------------------------------------------------------------------------------------
+In order to remove generated object files
+type command
+ 
+make clean
+----------------------------------------------------------------------------------------
+
+1)It will ask for a path of image with name
+
+2)Give path of image 
+
+3)For dct idct code hit enter when one image got displayed it will display next image
+
+4)For ROI part hit spacebar on original image window and it will show output
+
+5)Repeat this for respective images
+----------------------------------------------------------------------------------------
